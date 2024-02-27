@@ -137,6 +137,11 @@
         "warning.border": null,
         "players": [],
         "syntax": {
+          "comment": {
+            "color": "#7F838C",
+            "font_style": null,
+            "font_weight": null
+          },
           "attribute": {
             "color": "#d19a66",
             "font_style": null,
