@@ -135,7 +135,11 @@
         "warning": "#d19a66",
         "warning.background": "#1e2227",
         "warning.border": "#89734d",
-        "players": [],
+        "players": [
+          {
+            "selection": "#3e455270"
+          }
+        ],
         "syntax": {
           "comment": {
             "color": "#7F838C",
