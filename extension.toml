@@ -1,6 +1,6 @@
 id = "one-dark-pro"
 name = "One Dark Pro"
-version = "0.0.4"
+version = "0.0.5"
 schema_version = 1
 authors = ["MordFustang21"]
 description = "A port of VSCode One Dark Pro with some tweaks"
