@@ -42,7 +42,7 @@
         "tab_bar.background": "#1e2227",
         "tab.inactive_background": "#1e2227",
         "tab.active_background": "#23272e",
-        "search.match_background": null,
+        "search.match_background": "#74ade866",
         "panel.background": "#23272e",
         "panel.focused_border": null,
         "scrollbar_thumb.background": "#4e5666",
@@ -136,7 +136,44 @@
         "warning.border": "#89734d",
         "players": [
           {
-            "selection": "#3e455270"
+            "cursor": "#74ade8ff",
+            "background": "#74ade8ff",
+            "selection": "#74ade83d"
+          },
+          {
+            "cursor": "#be5046ff",
+            "background": "#be5046ff",
+            "selection": "#be50463d"
+          },
+          {
+            "cursor": "#bf956aff",
+            "background": "#bf956aff",
+            "selection": "#bf956a3d"
+          },
+          {
+            "cursor": "#b477cfff",
+            "background": "#b477cfff",
+            "selection": "#b477cf3d"
+          },
+          {
+            "cursor": "#6eb4bfff",
+            "background": "#6eb4bfff",
+            "selection": "#6eb4bf3d"
+          },
+          {
+            "cursor": "#d07277ff",
+            "background": "#d07277ff",
+            "selection": "#d072773d"
+          },
+          {
+            "cursor": "#dec184ff",
+            "background": "#dec184ff",
+            "selection": "#dec1843d"
+          },
+          {
+            "cursor": "#a1c181ff",
+            "background": "#a1c181ff",
+            "selection": "#a1c1813d"
           }
         ],
         "syntax": {
