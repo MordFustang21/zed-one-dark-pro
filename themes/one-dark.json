@@ -42,7 +42,7 @@
         "tab_bar.background": "#1e2227",
         "tab.inactive_background": "#1e2227",
         "tab.active_background": "#23272e",
-        "search.match_background": "#74ade866",
+        "search.match_background": "#d19a6644",
         "panel.background": "#23272e",
         "panel.focused_border": null,
         "scrollbar_thumb.background": "#4e5666",
