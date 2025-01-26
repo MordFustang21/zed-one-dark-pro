@@ -277,6 +277,16 @@
             "color": "#e5c07b",
             "font_style": null,
             "font_weight": null
+          },
+          "punctuation.list_marker": {
+            "color": "#d07277ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "title": {
+            "color": "#d07277ff",
+            "font_style": null,
+            "font_weight": null
           }
         }
       }
