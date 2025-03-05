@@ -183,6 +183,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "comment.doc": {
+            "color": "#7f848e",
+            "font_style": null,
+            "font_weight": null
+          },
           "attribute": {
             "color": "#d19a66",
             "font_style": null,
