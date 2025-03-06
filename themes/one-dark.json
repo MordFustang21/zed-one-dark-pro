@@ -233,6 +233,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "keyword.operator": {
+            "color": "#c678dd",
+            "font_style": null,
+            "font_weight": null
+          },
           "link_text": {
             "color": "#61afef",
             "font_style": null,
